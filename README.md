@@ -18,4 +18,4 @@ npm run build
 
 ## 访问路径
 
-[http://vue.wendaosanshou.top/mi/](http://vue.wendaosanshou.top/mi/)
+[http://www.it13.cn/mi/](http://www.it13.cn/mi/)
