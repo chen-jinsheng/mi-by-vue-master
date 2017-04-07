@@ -18,4 +18,4 @@ npm run build
 
 ## 访问路径
 
-[http://www.it13.cn/mi/](http://www.it13.cn/mi/)
+[http://chenjinsheng.it13.cn/mi/](http://chenjinsheng.it13.cn/mi/)
